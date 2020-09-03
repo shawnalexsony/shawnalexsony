@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](intro.gif)
+![](https://github.com/shawnalexsony/shawnalexsony/blob/master/intro.gif)
 <!--
 <h1 align="center">Hi 👋, I'm Shawn Alex Sony</h1>
 <h3 align="center">A passionate tech enthusiast. Hardware design engineer by profession. Hobbyist Coder and Maker. A big Otaku and a Fitness freak.</h3>
